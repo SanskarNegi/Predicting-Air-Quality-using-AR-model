@@ -2,7 +2,7 @@
 
 Predicting Air Quality (PM2.5) readings using AutoRegressive Model from statsmodel.
 
-This Project is created to build a model that predict the PM2.5 readings using AutoRegresssive model from statsmodels. In this project we tune our hyperparameter to improve model's performance. Walk Forward Velidation is perfomed for evaluation of our model.
+This Project is created to build a model that predict the PM2.5 readings using AutoRegresssive model from statsmodels on time series data. In this project we tune our hyperparameter to improve model's performance. Walk Forward Velidation is perfomed for evaluation of our model.
 
 This Repo include following files
 - **README.md:** This file, which contains a summary of files used for this project
